@@ -4,7 +4,7 @@ I'm Heeyoung Yang, Entry-Level developer from Seoul, Korea, currenly living in T
 
 <br/>
 
-### 👨🏻‍💻 My Tech Stack
+### 👨🏻‍💻 My tech stack
 
 ![Java](https://img.shields.io/badge/-JAVA-orange?logo=java)
 ![C](https://img.shields.io/badge/-C-blue?logo=C)
@@ -24,6 +24,6 @@ I'm Heeyoung Yang, Entry-Level developer from Seoul, Korea, currenly living in T
 </p>
 
 
-### 📈 my github stats 
+### 📈 My github stats 
   
 ![Heeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-heeyoung&show_icons=true&theme=radical)
