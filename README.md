@@ -8,12 +8,12 @@ I'm Heeyoung Yang, Entry-Level developer from Seoul, Korea, currenly living in T
 
 ![Java](https://img.shields.io/badge/-JAVA-orange?logo=java)
 ![C](https://img.shields.io/badge/-C-blue?logo=C)
-![C++](https://img.shields.io/badge/-C%2B%2B-blue?logo=C++)
+![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?logo=react)
-![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen?logo=nodejs)
+![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen?logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-red?logo=git)
 ![Github](https://img.shields.io/badge/-Github-blueviolet?logo=github)
 
