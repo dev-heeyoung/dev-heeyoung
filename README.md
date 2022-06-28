@@ -14,11 +14,15 @@ I'm Heeyoung Yang, Entry-Level developer from Seoul, Korea, currenly living in T
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen?logo=node.js)
-![React](https://img.shields.io/badge/-React-black?logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-lightblue?logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=MongoDB)
+![Heroku](https://img.shields.io/badge/-Heroku-blueviolet?logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?logo=netlify)
 ![Git](https://img.shields.io/badge/-Git-red?logo=git)
 ![Github](https://img.shields.io/badge/-Github-blueviolet?logo=github)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-purple?logo=visualstudio)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-blue?logo=VisualstudioCode)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?logo=IntelliJIDEA)
 
 
 ### 💬 Where to find me 
