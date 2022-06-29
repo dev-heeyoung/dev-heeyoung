@@ -16,6 +16,7 @@ I'm Heeyoung Yang, Entry-Level developer from Seoul, Korea, currenly living in T
 ![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen?logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-lightblue?logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9cf?logo=postgresql)
 ![Heroku](https://img.shields.io/badge/-Heroku-blueviolet?logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?logo=netlify)
 ![Git](https://img.shields.io/badge/-Git-red?logo=git)
