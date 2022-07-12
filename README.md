@@ -6,25 +6,40 @@ I'm Heeyoung Yang, Entry-Level developer from Seoul, Korea, currenly living in T
 
 ### 👨🏻‍💻 My tech stack
 
+- Languages:
 ![C](https://img.shields.io/badge/-C-blue?logo=C)
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
 ![Go](https://img.shields.io/badge/-Go-skyblue?logo=Go)
 ![Java](https://img.shields.io/badge/-JAVA-orange?logo=java)
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+
+- Web Technologies: 
+![React](https://img.shields.io/badge/-React-skyblue?logo=React)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen?logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-lightblue?logo=MySQL)
+
+- Database: 
+![Redis](https://img.shields.io/badge/-Redis-red?logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=MongoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-lightblue?logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9cf?logo=postgresql)
+
+- Deployment: 
 ![Heroku](https://img.shields.io/badge/-Heroku-blueviolet?logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?logo=netlify)
-![Git](https://img.shields.io/badge/-Git-red?logo=git)
-![Github](https://img.shields.io/badge/-Github-blueviolet?logo=github)
+
+- Tools: 
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-purple?logo=visualstudio)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-blue?logo=VisualstudioCode)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?logo=IntelliJIDEA)
 
+- Others:
+![Git](https://img.shields.io/badge/-Git-red?logo=git)
+![Github](https://img.shields.io/badge/-Github-blueviolet?logo=github)
+![Docker](https://img.shields.io/badge/-Docker-9cf?logo=Docker)
+
+- Knowledge: Object-Oriented Design, Data structure & Algorithm, Agile & Scrum Methodologies
 
 ### 💬 Where to find me 
 
