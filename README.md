@@ -1,6 +1,6 @@
 <h1> Hi there 👋 </h1>
 :smiley: Welcome to my Github!<br/>
-I'm Heeyoung Yang, Entry-Level developer from Seoul, Korea, currenly living in Toronto, Canada.
+I'm Heeyoung Yang, a software developer in Toronto, Canada.
 
 <br/>
 
