@@ -7,17 +7,20 @@ I'm Heeyoung Yang, a software developer in Toronto, Canada.
 ### 👨🏻‍💻 My tech stack
 
 - Languages:
-![C](https://img.shields.io/badge/-C-blue?logo=C)
-![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![Go](https://img.shields.io/badge/-Go-skyblue?logo=Go)
-![Java](https://img.shields.io/badge/-JAVA-orange?logo=java)
+![TypeScript](https://img.shields.io/badge/-TypeScript-skyblue?logo=typescript)
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)
+![Go](https://img.shields.io/badge/-Go-skyblue?logo=Go)
+![C](https://img.shields.io/badge/-C-blue?logo=C)
+![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-JAVA-orange?logo=java)
 
-- Web Technologies: 
+- Web: 
 ![React](https://img.shields.io/badge/-React-skyblue?logo=React)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen?logo=node.js)
+![NextJS](https://img.shields.io/badge/-NextJS-black?logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?logo=tailwindcss)
 
 - Database: 
 ![Redis](https://img.shields.io/badge/-Redis-red?logo=Redis)
