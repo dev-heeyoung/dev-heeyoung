@@ -20,13 +20,14 @@ I'm Heeyoung Yang, a software developer in Toronto, Canada.
 ![React](https://img.shields.io/badge/-React-skyblue?logo=React)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen?logo=node.js)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?logo=tailwindcss)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-skyblue?logo=tailwindcss)
 
 - Database: 
 ![Redis](https://img.shields.io/badge/-Redis-red?logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-lightblue?logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9cf?logo=postgresql)
+![Prisma](https://img.shields.io/badge/-Prisma-darkblue?logo=prisma)
 
 - Deployment: 
 ![Heroku](https://img.shields.io/badge/-Heroku-blueviolet?logo=heroku)
