@@ -46,7 +46,7 @@ I'm Heeyoung Yang, a software developer in Toronto, Canada.
 
 <p><a href="https://github.com/dev-heeyoung" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/heeyoung-yang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://amazing-hotteok-e285fe.netlify.app/" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/-Portfolio%20Website-ff69b4?&style=for-the-badge&logoColor=white"/></a>
+<a href="https://heeyoungyang.netlify.app/" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/-Portfolio%20Website-ff69b4?&style=for-the-badge&logoColor=white"/></a>
 </p>
 
 
